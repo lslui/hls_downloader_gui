@@ -1,5 +1,13 @@
 {
-  "browsers_tag": "browsers-v2",
+  "schema_version": 1,
+  "name": "ms-playwright bundle",
+  "browser": "chromium",
+  "version": "browsers-v2",
+  "release_tag": "browsers-v2",
+  "zip_file": "ms-playwright.zip",
   "zip_url": "https://github.com/lslui/hls_downloader_gui/releases/download/browsers-v2/ms-playwright.zip",
-  "sha256_url": "https://github.com/lslui/hls_downloader_gui/releases/download/browsers-v2/ms-playwright.zip.sha256"
+  "sha256_file": "ms-playwright.zip.sha256",
+  "sha256_url": "https://github.com/lslui/hls_downloader_gui/releases/download/browsers-v2/ms-playwright.zip.sha256",
+  "local_version_file": "ms-playwright.version",
+  "delete_zip_after_extract": true
 }
